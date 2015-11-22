@@ -1,5 +1,5 @@
 ## Programming Assignment 2 - R Programming
-## Data Science Specialization Track 
+## Data Science Specialization Track
 ##
 ## These two functions are part of completing the second
 ## programming assignment for the R Programming course 
