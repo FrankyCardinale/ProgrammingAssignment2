@@ -16,7 +16,6 @@
 ## result once.  If you try to recompute the inverse again,
 ## we have already computed this already and so we should
 ## just return this pre-computed result.
-##
 
 ## makeCacheMatrix:
 ## The following function makeCacheMatrix creates a special “matrix”, which is really a list containing a function to
